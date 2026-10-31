@@ -1,0 +1,31 @@
+# Credenciales y archivos privados
+*.pem
+*.key
+.env
+.env.*
+
+# Ambientes virtuales y Tox
+.venv/
+venv/
+env/
+env-tox/
+.tox/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+
+# Construccion del paquete
+build/
+dist/
+*.egg-info/
+
+# Editores y sistema operativo
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
