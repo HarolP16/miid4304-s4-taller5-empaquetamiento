@@ -20,6 +20,7 @@ features:
   - Contacts_Count_12_mon
 
 temp_features:
+ - Customer_Age
  - Gender
  - Dependent_count
  - Education_Level
